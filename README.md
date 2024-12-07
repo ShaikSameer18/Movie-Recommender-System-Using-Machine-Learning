@@ -1,5 +1,5 @@
 Movie Recommender System Using Machine Learning!
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+Workflow:
 Recommendation systems are essential tools in today’s busy world. They help users make efficient choices by providing personalized recommendations based on their profiles, browsing history, and preferences.
 
 This project demonstrates a machine learning-based movie recommendation system, allowing users to discover movies similar to their interests. It leverages Streamlit for the interface and combines advanced techniques for recommendation generation.
@@ -24,8 +24,12 @@ Generates a score between [0, 1], where:
 1 indicates complete similarity.
 0 indicates complete dissimilarity.
 For details, check this resource.
+
 Demo:
-<img src="demo/1.png" alt="workflow" width="70%"> <img src="demo/2.png" alt="workflow" width="70%"> <img src="demo/3.png" alt="workflow" width="70%">
+
+
+
+
 How to Run the Project?
 Steps:
 Clone the repository:
