@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copy code
-https://github.com/ShaikSameer18/Movie-Recommender-System-Using-Machine-Learning/upload/main
+https://github.com/ShaikSameer18/Movie-Recommender-System-Using-Machine-Learning
 Create a Conda environment:
 
 bash
