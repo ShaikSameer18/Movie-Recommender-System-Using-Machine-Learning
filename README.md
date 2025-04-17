@@ -65,3 +65,6 @@ streamlit run app.py
 Author:
 Sameer Shaik
 This project is licensed under the MIT License.
+![image](https://github.com/user-attachments/assets/6f900bcc-af39-4173-9ace-4e76ed594a7a)
+![Screenshot 2025-04-17 170208](https://github.com/user-attachments/assets/5f8859f9-d5c6-4dff-95ea-cfad70e5fc20)
+
